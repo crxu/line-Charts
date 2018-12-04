@@ -229,8 +229,7 @@ public class StackBarChart02View extends DemoView {
 		}
 		return true;
 	}
-	
-	
+
 	//触发监听
 	private void triggerClick(float x,float y)
 	{
